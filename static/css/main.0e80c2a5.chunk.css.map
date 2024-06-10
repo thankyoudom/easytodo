@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAIA,oBAHE,eAOF,CAJA,eAGE,gBACF","file":"main.0e80c2a5.chunk.css","sourcesContent":["body {\n  font-weight: 200;\n}\n\ninput,\nnav-item {\n  font-weight: 200;\n  line-height: 110%;\n}\n"]}
